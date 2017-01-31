@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">MAIN MENU</string>
+    <string name="boton1">WEATHER</string>
+    <string name="boton2">ATOMIC DATA</string>
+    <string name="boton3">MULTIMEDIA</string>
+    <string name="botonExit">EXIT</string>
+
+    <!--- NO PONGO TODOS LOS STRINGS EN TODOS LAS ACTIVITYS PORQ CREO Q YA SABES Q SE COMO VA -->
+
+</resources>
